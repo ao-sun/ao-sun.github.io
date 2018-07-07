@@ -1,16 +1,9 @@
-hanuman:
-  username: hanuman
-  name: HANUMAN
-  location: Ayodhya
-  url_full: https://hanumanchalisa.net
-  url: hanumanchalisa.net
+sunao:
+  username: sunao
+  name: SUN-AO
+  location: XIA MEN
+  url_full: https://suntiansheng.githun.io
+  url: suntiansheng.githun.io
   bio: Jai Shri Ram!
   assets: assets/images/hanuman.png
-krishna:
-  username: krishna
-  name: KRISHNA
-  location: Vrindavan
-  url_full: https://shriradhakrishna.com
-  url: shriradhakrishna.com
-  bio: Radhe! Radhe!
-  assets: assets/images/favicon.png
+
