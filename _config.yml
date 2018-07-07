@@ -3,8 +3,8 @@ title: SUN-AO|孙傲
 description: leave a NA's here.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
-favicon: assets/images/favicon.png
-baseurl: "/sunao/" # the subpath of your site, e.g. /blog/ or / for root
+favicon: /assets/images/favicon.png
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://suntiansheng.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
