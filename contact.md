@@ -1,14 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: contact
+permalink: /contact/
 ---
 
 <amp-img width="600" height="300" layout="responsive" src="https://github.com/suntiansheng/suntiansheng.github.io/blob/master/assets/images/logo.png"></amp-img>
 
-<h1>leave NA's here</h1>
-  <p>haha</p>
-
-<hr />
-<h1>不输入任何字</h1>
-  <p>哈哈</p>
+#leave NA's here
+  haha
+---
+#不输入任何字
+  哈哈
