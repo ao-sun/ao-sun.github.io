@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="https://github.com/suntiansheng/suntiansheng.github.io/blob/master/assets/images/logo.png"></amp-img>
-
 <h1>leave NA's here</h1>
   <p>haha</p>
 
