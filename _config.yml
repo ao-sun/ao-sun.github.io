@@ -5,7 +5,7 @@ cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://github.com/suntiansheng/suntiansheng.github.io.git" # the base hostname & protocol for your site
+url: "https://suntiansheng.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
@@ -43,8 +43,8 @@ repo: suntiansheng.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../suntiansheng.github.io/ #destination directory
-production_url:  https://github.com/suntiansheng/suntiansheng.github.io.git/
-source_url:  https://github.com/suntiansheng/suntiansheng.github.io.git/ #source repository url
+production_url:  https://suntiansheng.github.io/
+source_url:  https://github.com/suntiansheng/suntiansheng.github.io.git #source repository url
 
 exclude:
   - README.md
