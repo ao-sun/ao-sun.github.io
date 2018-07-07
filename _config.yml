@@ -1,5 +1,5 @@
 # Site settings
-title: SUN-AO
+title: SUN-AO|孙傲
 description: leave a NA's here.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
@@ -43,8 +43,8 @@ repo: suntiansheng.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../suntiansheng.github.io/ #destination directory
-production_url:  https://github.com/suntiansheng/suntiansheng.github.io.git
-source_url:  https://github.com/suntiansheng/suntiansheng.github.io.git #source repository url
+production_url:  https://github.com/suntiansheng/suntiansheng.github.io.git/
+source_url:  https://github.com/suntiansheng/suntiansheng.github.io.git/ #source repository url
 
 exclude:
   - README.md
