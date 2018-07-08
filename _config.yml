@@ -5,7 +5,7 @@ cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: /assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://suntiansheng.github.io" # the base hostname & protocol for your site
+url: "https://ao-sun.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
@@ -38,13 +38,13 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: suntiansheng #github username
-repo: suntiansheng.github.io #github repository
+username: ao-sun #github username
+repo: ao-sun.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../suntiansheng.github.io/ #destination directory
-production_url:  https://suntiansheng.github.io/
-source_url:  https://github.com/suntiansheng/suntiansheng.github.io.git #source repository url
+production_url:  https://ao-sun.github.io/
+source_url:  https://github.com/ao-sun/ao-sun.github.io.git #source repository url
 
 exclude:
   - README.md
