@@ -1,13 +1,9 @@
 ---
 layout: page
-title: contact
+title: CONTACT
 permalink: /contact/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="https://github.com/suntiansheng/suntiansheng.github.io/blob/master/assets/images/logo.png"></amp-img>
+<p>EMAIL:654225305@qq.com</p>
 
-#leave NA's here
-  haha
----
-#不输入任何字
-  哈哈
+<p>ADDRESS:<a title="the School of Economics, Xiamen University" href="http://economic.xmu.edu.cn/">the School of Economics, Xiamen University</a>

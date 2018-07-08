@@ -1,6 +1,6 @@
 # Site settings
-title: SUN-AO|孙傲
-description: leave a NA's here.
+title: AO-SUN|孙傲
+description: Computer on, of course caffeine and a science of submission again.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: /assets/images/favicon.png
@@ -42,7 +42,7 @@ username: ao-sun #github username
 repo: ao-sun.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
-destination: ../suntiansheng.github.io/ #destination directory
+destination: ../ao-sun.github.io/ #destination directory
 production_url:  https://ao-sun.github.io/
 source_url:  https://github.com/ao-sun/ao-sun.github.io.git #source repository url
 
