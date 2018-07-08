@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+#permalink: /about/
 ---
 
 <p>I am a postgraduate student toiling for my mathematical statistics master's degree at <a title="the School of Economics, Xiamen University" href="http://economic.xmu.edu.cn/">the School of Economics, Xiamen University</a>. I want to be a R&Python programmer<del>(not just using API nor copying other's code</del>, but developing my own package and method). In order to achieve this goal, enhancing my abilities of math and software simultaneously are of the utmost importance. It is exciting to fulfil my target step by step and I like to write down this process, so I build this personal blog which will be used to record the difficulties that I will confronted in the future. At the very end, I wish I can be a person like<a title="xyh" href = "https://yihui.name/">Yihui Xie</a> technically and get his signature.</p>

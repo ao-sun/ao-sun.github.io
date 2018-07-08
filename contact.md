@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CONTACT
-permalink: /contact/
+#permalink: /contact/
 ---
 
 <p>EMAIL:654225305@qq.com</p>
