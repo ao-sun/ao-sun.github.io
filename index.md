@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to Ao Sun's homepage
 
-I am a PhD student at [School of Economics, Xiamen University](http://www.soe.xmu.edu.cn/english/) supervised by [Prof.Jingyuan Liu](https://wise.xmu.edu.cn/english/info/1062/1339.htm). My research lies in high-dimensional inference.
+I am a PhD student at [School of Economics, Xiamen University](http://www.soe.xmu.edu.cn/english/) supervised by [Prof.Jingyuan Liu](https://wise.xmu.edu.cn/english/info/1062/1339.htm). Now, I am visiting [Prof.Yingying Fan](http://faculty.marshall.usc.edu/yingying-fan/) at USC Marshall. My research lies in high-dimensional inference.
 
 # Publications
 
