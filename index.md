@@ -16,7 +16,7 @@ layout: default
  Keying Wang, Meng Wu, Yongping Sun, Xunpeng Shi, Ao Sun and Ping Zhang. <em>Resources Policy, 2019</em>. <br>
  You can see the result of this project <strong><a href = "https://da-sunao.shinyapps.io/engel_curve/">here</a></strong>.</p>
 
- # Preprint
+# Preprints
 
 <p><ins>OPTICS: Order-Preserved Test-Inverse Confidence Set for Number of Change-Points</ins>. <br>
  Ao Sun and Jingyuan Liu. <em>Submitted</em>.<br></p>
