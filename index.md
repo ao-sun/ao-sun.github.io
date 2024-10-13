@@ -22,4 +22,4 @@ layout: default
  Ao Sun and Jingyuan Liu. <em>Submitted</em>.<br></p>
  
 # Contact
-Email: ao.sun@marshall.usc.com
+Email: aosun.xmu@gmail.com
