@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to Ao Sun's homepage
 
- I am currently a Postdoctoral Research Associate at [USC Marshall](https://www.marshall.usc.edu/), mentored by [Prof.Yingying Fan](http://faculty.marshall.usc.edu/yingying-fan/) and [Prof.Paromita Dubey](https://www.paromitadubey.com/). I received my Ph.D. degree in 2024 from the [School of Economics, Xiamen University](http://www.soe.xmu.edu.cn/english/), where I was supervised by [Prof.Jingyuan Liu](https://wise.xmu.edu.cn/english/info/1062/1339.htm). During 2023-2024, I was a visiting PhD student supervised by [Prof.Yingying Fan](http://faculty.marshall.usc.edu/yingying-fan/) at [USC Marshall](https://www.marshall.usc.edu/). My research lies in high-dimensional inference.
+ I am currently a Postdoctoral Research Associate at [USC Marshall](https://www.marshall.usc.edu/), mentored by [Prof.Yingying Fan](http://faculty.marshall.usc.edu/yingying-fan/), [Prof.Paromita Dubey](https://www.paromitadubey.com/) and [Prof.Jinchi Lv](http://faculty.marshall.usc.edu/jinchi-lv/). I received my Ph.D. degree in 2024 from the [School of Economics, Xiamen University](http://www.soe.xmu.edu.cn/english/), where I was supervised by [Prof.Jingyuan Liu](https://wise.xmu.edu.cn/english/info/1062/1339.htm). During 2023-2024, I was a visiting PhD student supervised by [Prof.Yingying Fan](http://faculty.marshall.usc.edu/yingying-fan/) at [USC Marshall](https://www.marshall.usc.edu/). My research lies in high-dimensional inference.
 
 # Publications
 
