@@ -6,3 +6,5 @@ gemspec
 
 - name: Install dependencies
   run: bundle install
+
+gem 'faraday-retry'
