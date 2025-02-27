@@ -3,3 +3,6 @@
 source "https://rubygems.org"
 
 gemspec
+
+- name: Install dependencies
+  run: bundle install
